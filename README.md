@@ -17,8 +17,8 @@ As it's my first serious project, any improvements are most welcome.
 4. nodemon
 
 ## Contact
-E-mail: nitinjha2609@gmail.com
-Instagram: nitin_is_me
-Reddit: nitin_is_me
-Discord: nitin_is_me
+E-mail: nitinjha2609@gmail.com <br>
+Instagram: nitin_is_me <br>
+Reddit: nitin_is_me <br>
+Discord: nitin_is_me <br>
 Github: nitin-is-me (I just had to put this here lol)
